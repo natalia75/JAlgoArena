@@ -1,1 +1,1 @@
-"web: ./build/install/JAlgoArena-E2E/bin/JAlgoArena-E2E" 
+web: ./build/install/JAlgoArena/bin/JAlgoArena-E2E
